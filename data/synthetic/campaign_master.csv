@@ -1,0 +1,14 @@
+campaign_id,campaign_name,platform,objective,start_date,end_date
+GS-BRAND-001,Search | Brand | All Courses,Google Ads,Lead Gen,2026-01-01,2026-06-29
+GS-NB-MBA-002,Search | Non-Brand | Online MBA,Google Ads,Lead Gen,2026-01-01,2026-06-29
+GS-NB-DS-003,Search | Non-Brand | Data Science,Google Ads,Lead Gen,2026-01-01,2026-06-29
+GS-COMP-004,Search | Competitor | Aggregator Terms,Google Ads,Lead Gen,2026-01-31,2026-06-29
+GS-PMAX-005,PMax | Lead Gen | All Courses,Google Ads,Lead Gen,2026-03-02,2026-06-29
+META-PROS-001,Prospecting | MBA | Broad,Meta Ads,Lead Gen,2026-01-01,2026-06-29
+META-RT-002,Retargeting | Site Visitors,Meta Ads,Lead Gen,2026-01-21,2026-06-29
+META-LAL-003,Lookalike | Enrolled Students,Meta Ads,Lead Gen,2026-02-15,2026-06-29
+META-REELS-004,Reels | Awareness,Meta Ads,Awareness,2026-01-01,2026-04-11
+MS-NB-MBA-001,Search | Non-Brand | MBA,Microsoft Ads,Lead Gen,2026-01-11,2026-06-29
+MS-BRAND-002,Search | Brand,Microsoft Ads,Lead Gen,2026-01-11,2026-06-29
+YT-INSTREAM-001,In-Stream | Career Advice,YouTube Ads,Awareness,2026-01-16,2026-06-29
+YT-DEMAND-002,Demand Gen | MBA,YouTube Ads,Lead Gen,2026-03-02,2026-06-29

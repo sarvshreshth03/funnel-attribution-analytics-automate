@@ -1,0 +1,23 @@
+source_raw,channel_name,channel_group,utm_medium,is_paid
+Google,Google Ads,Search,cpc,1
+google,Google Ads,Search,cpc,1
+Direct Traffic,Direct,Direct,none,0
+Direct,Direct,Direct,none,0
+Olark Chat,Website Chat,Direct,chat,0
+Live Chat,Website Chat,Direct,chat,0
+Organic Search,Organic Search,Search,organic,0
+Reference,Referral,Referral,referral,0
+Referral Sites,Referral,Referral,referral,0
+Welingak Website,Partner Website,Referral,referral,0
+Facebook,Meta Ads,Paid Social,cpc,1
+bing,Microsoft Ads,Search,cpc,1
+youtube,YouTube Ads,Video,video,1
+Click2call,Click2Call,Direct,phone,0
+Social Media,Social Organic,Social,social,0
+welearnblog_Home,Social Organic,Social,blog,0
+Email,Email,Direct,email,0
+email,Email,Direct,email,0
+other,Other,Other,other,0
+Other,Other,Other,other,0
+unknown,Unknown,Other,unknown,0
+Unknown,Unknown,Other,unknown,0

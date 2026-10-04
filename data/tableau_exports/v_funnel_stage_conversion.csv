@@ -1,0 +1,49 @@
+CHANNEL_NAME,CHANNEL_GROUP,SPECIALIZATION,STAGE_1_CAPTURED,STAGE_2_CONTACTED,PCT_CAPTURED_TO_CONTACTED,STAGE_3_QUALIFIED,PCT_CONTACTED_TO_QUALIFIED,STAGE_4_APPLIED,PCT_QUALIFIED_TO_APPLIED,STAGE_5_ENROLLED,PCT_APPLIED_TO_ENROLLED,OVERALL_CONVERSION_RATE
+Google Ads,Paid Search,Hospitality Management,34,30,88.24,21,70.0,18,85.71,15,83.33,44.12
+Google Ads,Paid Search,Business Administration,144,122,84.72,87,71.31,75,86.21,69,92.0,47.92
+Google Ads,Paid Search,Travel and Tourism,31,27,87.1,22,81.48,17,77.27,13,76.47,41.94
+Google Ads,Paid Search,Finance Management,371,303,81.67,240,79.21,187,77.92,169,90.37,45.55
+Google Ads,Paid Search,Rural and Agribusiness,12,11,91.67,8,72.73,6,75.0,6,100.0,50.0
+Google Ads,Paid Search,Services Excellence,5,4,80.0,4,100.0,3,75.0,2,66.67,40.0
+Google Ads,Paid Search,Retail Management,38,29,76.32,24,82.76,19,79.17,18,94.74,47.37
+Google Ads,Paid Search,E-Business,17,14,82.35,10,71.43,7,70.0,7,100.0,41.18
+Google Ads,Paid Search,Healthcare Management,27,21,77.78,17,80.95,12,70.59,12,100.0,44.44
+Google Ads,Paid Search,E-COMMERCE,23,17,73.91,13,76.47,10,76.92,8,80.0,34.78
+Google Ads,Paid Search,"Banking, Investment And Insurance",115,99,86.09,76,76.77,58,76.32,53,91.38,46.09
+Google Ads,Paid Search,IT Projects Management,117,100,85.47,79,79.0,62,78.48,59,95.16,50.43
+Google Ads,Paid Search,Supply Chain Management,89,74,83.15,54,72.97,45,83.33,41,91.11,46.07
+Google Ads,Paid Search,Media and Advertising,65,50,76.92,33,66.0,29,87.88,25,86.21,38.46
+Google Ads,Paid Search,International Business,62,54,87.1,40,74.07,33,82.5,25,75.76,40.32
+Google Ads,Paid Search,Operations Management,165,137,83.03,112,81.75,86,76.79,78,90.7,47.27
+Google Ads,Paid Search,Unspecified,904,667,73.78,451,67.62,319,70.73,251,78.68,27.77
+Google Ads,Paid Search,Human Resource Management,323,263,81.42,207,78.71,158,76.33,137,86.71,42.41
+Google Ads,Paid Search,Marketing Management,331,285,86.1,215,75.44,170,79.07,159,93.53,48.04
+Microsoft Ads,Paid Search,Unspecified,4,2,50.0,1,50.0,0,0.0,0,,0.0
+Microsoft Ads,Paid Search,Media and Advertising,1,1,100.0,1,100.0,1,100.0,1,100.0,100.0
+Microsoft Ads,Paid Search,Operations Management,1,1,100.0,1,100.0,0,0.0,0,,0.0
+Other,Other,Rural and Agribusiness,61,52,85.25,38,73.08,28,73.68,25,89.29,40.98
+Other,Other,E-Business,40,30,75.0,20,66.67,14,70.0,14,100.0,35.0
+Other,Other,Hospitality Management,80,67,83.75,53,79.1,37,69.81,33,89.19,41.25
+Other,Other,Healthcare Management,131,112,85.5,86,76.79,72,83.72,66,91.67,50.38
+Other,Other,Travel and Tourism,172,133,77.33,97,72.93,67,69.07,59,88.06,34.3
+Other,Other,Supply Chain Management,260,216,83.08,166,76.85,129,77.71,110,85.27,42.31
+Other,Other,E-COMMERCE,88,76,86.36,54,71.05,37,68.52,31,83.78,35.23
+Other,Other,Media and Advertising,137,117,85.4,90,76.92,69,76.67,59,85.51,43.07
+Other,Other,Business Administration,259,200,77.22,154,77.0,127,82.47,110,86.61,42.47
+Other,Other,International Business,116,89,76.72,60,67.42,44,73.33,39,88.64,33.62
+Other,Other,IT Projects Management,249,202,81.12,138,68.32,96,69.57,81,84.38,32.53
+Other,Other,"Banking, Investment And Insurance",223,191,85.65,154,80.63,123,79.87,114,92.68,51.12
+Other,Other,Retail Management,62,56,90.32,37,66.07,22,59.46,16,72.73,25.81
+Other,Other,Services Excellence,35,29,82.86,16,55.17,10,62.5,9,90.0,25.71
+Other,Other,Operations Management,336,272,80.95,222,81.62,176,79.28,159,90.34,47.32
+Other,Other,Finance Management,602,501,83.22,385,76.85,291,75.58,264,90.72,43.85
+Other,Other,Unspecified,2444,1776,72.67,1171,65.93,821,70.11,697,84.9,28.52
+Other,Other,Human Resource Management,524,425,81.11,338,79.53,279,82.54,250,89.61,47.71
+Other,Other,Marketing Management,506,410,81.03,328,80.0,271,82.62,248,91.51,49.01
+Unknown,Other,Unspecified,28,26,92.86,22,84.62,21,95.45,21,100.0,75.0
+Unknown,Other,Healthcare Management,1,1,100.0,1,100.0,1,100.0,1,100.0,100.0
+Unknown,Other,Marketing Management,1,1,100.0,1,100.0,1,100.0,1,100.0,100.0
+Unknown,Other,Finance Management,3,3,100.0,3,100.0,3,100.0,3,100.0,100.0
+Unknown,Other,Operations Management,1,1,100.0,1,100.0,1,100.0,1,100.0,100.0
+Unknown,Other,E-COMMERCE,1,1,100.0,1,100.0,1,100.0,1,100.0,100.0
+Unknown,Other,Human Resource Management,1,1,100.0,1,100.0,1,100.0,1,100.0,100.0

@@ -1,0 +1,8 @@
+{
+  "seed": 42,
+  "defects_injected": true,
+  "crm_utm_source_case_whitespace": 369,
+  "touchpoints_utm_source_case_whitespace": 605,
+  "crm_missing_utm_campaign_on_paid_leads": 36,
+  "crm_exact_duplicate_rows": 46
+}
